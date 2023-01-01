@@ -1,0 +1,27 @@
+{
+  "name": "webgl-sandbox",
+  "version": "1.0.0",
+  "description": "Experiment with WebGL",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tororoi/webgl-sandbox.git"
+  },
+  "keywords": [
+    "webgl"
+  ],
+  "author": "Thomas Cantwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tororoi/webgl-sandbox/issues"
+  },
+  "homepage": "https://github.com/Tororoi/webgl-sandbox#readme",
+  "dependencies": {
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0",
+    "serve": "^14.1.2"
+  }
+}
