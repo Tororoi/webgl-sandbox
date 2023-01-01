@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Tororoi/webgl-sandbox#readme",
   "dependencies": {
+    "gl-matrix": "^3.4.3",
     "sass": "^1.57.1",
     "sass-loader": "^13.2.0",
     "serve": "^14.1.2"
